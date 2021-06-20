@@ -1,0 +1,42 @@
+/*div{
+  background-color: #ccffbd;
+}*/
+.top-conteiner {
+  background-color: #ccffbd;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-conteiner {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-conteiner {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+  margin: 0;
+}
+.bottom-cloud{
+  position: absolute;
+  left : 300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
