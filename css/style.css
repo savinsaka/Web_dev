@@ -27,6 +27,7 @@ body {
 }
 
 h1 {
+  font-size: 5.625em;
   margin: 0;
   font-family: 'Sacramento', cursive;
 }
